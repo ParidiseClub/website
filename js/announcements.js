@@ -12,9 +12,10 @@ var announcementItems =
         `
     },
     item2 : {
-        name : "Kitchen (Temporarily) Closed",
+        name : "Kitchen is Re-Open!!",
         description : 
         `
+        Kitchen closed Sundays and Tuesdays.
         Upstairs remains open for food, coffee, snacks, fellowship.
         `
     },

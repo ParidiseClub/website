@@ -19,7 +19,7 @@ var aboutItems =
         `
     },
     item2 : {
-        name : "History of The Club and Recognition of it's Early Members",
+        name : "History of The Paridise Club and Recognition of it's Early Members",
         description :
          
         `

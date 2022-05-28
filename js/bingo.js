@@ -18,9 +18,11 @@ var bingoItems =
         </p>
 
         <p>
-        Text this number to sign up for alerts:
+        Text "paridise": 
         <br>
-        (555) 555-5555
+        (844)-588-8285
+        <br>
+        to sign up for alerts
         </p>
         `
 
