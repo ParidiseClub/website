@@ -7,7 +7,7 @@ var hourItems =
         heading : "Club Hours",
         item1 : {
             name : "Sunday - Friday :",
-            time : "Noon - 9:30 PM"
+            time : "Noon - 9:00 PM"
         },
         item2 : {
             name : "Saturday :",
