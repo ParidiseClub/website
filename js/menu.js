@@ -69,29 +69,34 @@ var menuItems =
         description : "Red, Orange, Blue"
     },
     item14 : {
+        name : "Minute Maid",
+        price : "$1.50",
+        description : "Pink Lemonade, Fruit Punch"
+    },
+    item15 : {
         name : "Monster Drinks",
         price : "$2.50",
         description : "Zoom"
     },
-    item15 : {
-        name : "Dunkin Coffees",
-        price : "$2.50",
+    item16 : {
+        name : "Starbucks Coffees",
+        price : "$3.00",
         description : "Cold Coffee"
     },
-    item16 : {
+    item17 : {
         name : "Pastry",
         price : "$1.00",
         description : "Muffins, Cookies"
     },
-    item17 : {
+    item18 : {
         name : "Chips",
         price : "$1.00",
-        description : "Lays"
+        description : "Lay's, Doritos, Cheetos, Funyuns"
     },
-    item18 : {
+    item19 : {
         name : "Candy Bars",
         price : "$1.00",
-        description : "Reese's, Kit-Kat, Milky Way, Snickers, Twix"
+        description : "Hershey, Reese's, Kit-Kat, Milky Way, Snickers, Twix"
     }
 };
 
