@@ -5,14 +5,18 @@
 var announcementItems = 
 {
     item1 : {
-        name : "Founders' Day is Coming!",
+        name : "Founders' Day Weekend Extended Hours!",
         description : 
         `
-        Call or stop in for more info.
+        Friday 6/10 - 11AM - 10PM
+        <br>
+        Saturday 6/11 - 8:30AM - 8:30PM
+        <br>
+        Sunday 6/12 - 11AM - 9PM
         `
     },
     item2 : {
-        name : "Kitchen is Re-Open!!",
+        name : "Kitchen is Open!!",
         description : 
         `
         Kitchen closed Sundays and Tuesdays.

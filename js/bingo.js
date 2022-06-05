@@ -30,7 +30,7 @@ var bingoItems =
         <br>
 
         <p>
-        Text "paridise": 
+        Text "paridise" to: 
         <br>
         (844)-588-8285
         <br>

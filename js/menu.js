@@ -4,7 +4,7 @@
 var menuItems = 
 {
     item1 : {
-        name : "Club Burger",
+        name : "pARIDise Burger",
         price : "$6.00",
         description : "Cheese, Grilled Onions, Bacon + BBQ Sauce"
     },
@@ -66,7 +66,7 @@ var menuItems =
     item13 : {
         name : "Powerade",
         price : "$1.50",
-        description : "Red, Purple, Blue"
+        description : "Red, Orange, Blue"
     },
     item14 : {
         name : "Monster Drinks",
