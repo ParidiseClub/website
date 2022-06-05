@@ -22,7 +22,7 @@ var hourItems =
         },
         item2 : {
             name : "Wings of Freedom :",
-            time : "5:30 PM"
+            time : "5:00 PM"
         },
         item3 : {
             name : "Sunday Night in Paridise :",
