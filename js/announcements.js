@@ -16,6 +16,17 @@ var announcementItems =
         `
     },
     item2 : {
+        name : "12 Songs of Recovery",
+        description : 
+        `
+        Live Band
+        <br>
+        Friday June 10th, 6:00PM
+        <br>
+        www.12-step-songs.com
+        `
+    },
+    item3 : {
         name : "Kitchen is Open!!",
         description : 
         `
