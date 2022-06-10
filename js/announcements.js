@@ -19,7 +19,7 @@ var announcementItems =
         name : "Kitchen is Open!!",
         description : 
         `
-        Kitchen closed Sundays and Tuesdays.
+        Kitchen normally closed Sundays and Tuesdays.
         Upstairs remains open for food, coffee, snacks, fellowship.
         `
     },
