@@ -16,8 +16,6 @@ var menuSpecialItems =
         <br>
         Cheeseburger $5.00
         <br>
-        Sausage, Pepper + Onion Sub $6.00
-        <br>
         Add Fries To Any Sandwich $1.25
         <br>
         `
