@@ -3,30 +3,8 @@
 // Whatever is INSIDE the quotes, and not one of the things above, will appear on top of the main page as plain text.
 
 var announcementItems = 
-{
+{    
     item1 : {
-        name : "Founders' Day Weekend Extended Hours!",
-        description : 
-        `
-        Friday 6/10 - 11AM - 10PM
-        <br>
-        Saturday 6/11 - 8:30AM - 8:30PM
-        <br>
-        Sunday 6/12 - 11AM - 9PM
-        `
-    },
-    item2 : {
-        name : "12 Songs of Recovery",
-        description : 
-        `
-        Live Band
-        <br>
-        Friday June 10th, 6:00PM
-        <br>
-        www.12-step-songs.com
-        `
-    },
-    item3 : {
         name : "Kitchen is Open!!",
         description : 
         `

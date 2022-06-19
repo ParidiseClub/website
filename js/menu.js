@@ -3,6 +3,11 @@
 
 var menuItems = 
 {
+    item0 : {
+        name : "Regular Menu Items",
+        price : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - =",
+        description : "Pricing and availability could change."
+    },
     item1 : {
         name : "pARIDise Burger",
         price : "$6.00",

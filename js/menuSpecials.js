@@ -3,30 +3,40 @@
 // Whatever is INSIDE the quotes, and not one of the things above, will appear on top of the menu page as plain text.
 
 var menuSpecialItems = 
-{
+{    
+    item0 : {
+        name : "Kitchen Specials",
+        description : "Ask if we have extras not listed."
+    },
     item1 : {
-        name : "Founders' Day Weekend Menu Specials!",
-        description : 
-        `
-        pARIDise Burger $6.00
-        <br>
-        All Beef Hot Dog $2.25
-        <br>
-        Hamburger $4.50
-        <br>
-        Cheeseburger $5.00
-        <br>
-        Add Fries To Any Sandwich $1.25
-        <br>
-        `
+        name : "BLT",
+        description : "$4.50"
     },
     item2 : {
-        name : "BREAKFAST WILL BE SERVED UNTIL 10:30AM SATURDAY 6/11",
-        description : 
-        `
-        We will not be serving breakfast Friday 6/10 or Sunday 6/12.
-        `
+        name : "Po Boy",
+        description : "$3.50"
     },
+    item3 : {
+        name : "Egg Salad Sandwich",
+        description : "$3.00"
+    },
+    item4 : {
+        name : "Tuna Salad Sandwich",
+        description : "$3.00"
+    },
+    item5 : {
+        name : "Chicken Tenders, French Fries, Coleslaw",
+        description : "$8.00"
+    },
+    item6 : {
+        name : "Chicken Tender Sandwich",
+        description : "$5.00"
+    },
+    item7 : {
+        name : "Cup of Coleslaw",
+        description : "$1.50"
+    },
+    
 };
 
 // Edit the portion below if you're comfortable with JavaScript
