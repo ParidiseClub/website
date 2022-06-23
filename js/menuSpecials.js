@@ -25,18 +25,9 @@ var menuSpecialItems =
         description : "$3.00"
     },
     item5 : {
-        name : "Chicken Tenders, French Fries, Coleslaw",
-        description : "$8.00"
-    },
-    item6 : {
-        name : "Chicken Tender Sandwich",
-        description : "$5.00"
-    },
-    item7 : {
         name : "Cup of Coleslaw",
         description : "$1.50"
-    },
-    
+    }
 };
 
 // Edit the portion below if you're comfortable with JavaScript
