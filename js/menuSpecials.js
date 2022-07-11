@@ -9,25 +9,37 @@ var menuSpecialItems =
         description : "Ask if we have extras not listed."
     },
     item1 : {
-        name : "BLT",
-        description : "$4.50"
-    },
-    item2 : {
         name : "Po Boy",
         description : "$3.50"
     },
+    item2 : {
+        name : "BLT",
+        description : "$4.50"
+    },
     item3 : {
-        name : "Egg Salad Sandwich",
+        name : "Egg or Egg/Tuna Salad Sandwich",
         description : "$3.00"
     },
     item4 : {
-        name : "Tuna Salad Sandwich",
-        description : "$3.00"
+        name : "Chicken Tenders + Fries",
+        description : "$6.50"
     },
     item5 : {
+        name : "Chicken Tender Sandwich",
+        description : "$5.00"
+    },
+    item6 : {
+        name : "Onion Rings",
+        description : "$2.25"
+    },
+    item7 : {
+        name : "Mozzarella Stix (4)",
+        description : "$5.50"
+    },
+    item8 : {
         name : "Cup of Coleslaw",
         description : "$1.50"
-    }
+    },
 };
 
 // Edit the portion below if you're comfortable with JavaScript
