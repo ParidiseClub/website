@@ -25,7 +25,7 @@ var menuItems =
     },
     item4 : {
         name : "All Beef Hotdog",
-        price : "$2.25",
+        price : "$2.75",
         description : "All Beef!"
     },
     item5 : {
@@ -35,17 +35,17 @@ var menuItems =
     },
     item6 : {
         name : "2 Eggs, Bacon + Toast",
-        price : "$5.00",
+        price : "$5.50",
         description : "Breakfast!"
     },
     item7 : {
         name : "2 Eggs, Sausage + Toast",
-        price : "$4.50",
+        price : "$5.00",
         description : "Breakfast!"
     },
     item8 : {
         name : "Bacon, Egg + Cheese Melt",
-        price : "$4.50",
+        price : "$5.50",
         description : "Breakfast Sandwich!"
     },
     item9 : {
