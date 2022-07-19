@@ -19,6 +19,24 @@ var aboutItems =
         `
     },
     item2 : {
+        name : "Welcome Upstairs!",
+        description : `
+        <img src="assets/pARIDISE-glass.jpg" alt="pARIDise Stained Glass" class="pc-img">
+        `
+    },
+    item3 : {
+        name : "Come play pool or darts!",
+        description : `
+        <img src="assets/pool-table.jpg" alt="Pool Table" class="pc-img">
+        `
+    },
+    item4 : {
+        name : "Stay for a meeting!",
+        description : `
+        <img src="assets/main-hall.jpg" alt="Meeting Hall" class="pc-img">
+        `
+    },
+    item5 : {
         name : "History of The Paridise Club and Recognition of it's Early Members",
         description :
          
