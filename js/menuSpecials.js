@@ -21,14 +21,22 @@ var menuSpecialItems =
         description : "$3.00"
     },
     item4 : {
+        name : "Chicken Tenders + Fries",
+        description : "$6.50"
+    },
+    item5 : {
+        name : "Chicken Tender Sandwich",
+        description : "$5.00"
+    },
+    item6 : {
         name : "Onion Rings",
         description : "$2.25"
     },
-    item5 : {
+    item7 : {
         name : "Mozzarella Stix (4)",
         description : "$5.50"
     },
-    item6 : {
+    item8 : {
         name : "Cup of Coleslaw",
         description : "$1.50"
     },
