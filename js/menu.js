@@ -6,7 +6,7 @@ var menuItems =
     item0 : {
         name : "Regular Menu Items",
         price : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - =",
-        description : "Pricing and availability could change."
+        description : "Pricing and availability could change. Kitchen Closes at 7pm."
     },
     item1 : {
         name : "pARIDise Burger",
