@@ -8,9 +8,16 @@ var announcementItems =
         name : "Kitchen is Open!!",
         description : 
         `
-        Kitchen closed Sundays and Tuesdays.
-        Kitchen closes at 7pm.
-        Upstairs remains open for food, coffee, snacks, fellowship.
+        Hours:<br>
+        Monday - 3:00-7:00<br>
+        Tuesday - CLOSED<br>
+        Wednesday - 12:00-7:00<br>
+        Thursday - 12:00-7:00<br>
+        Friday - 3:00-7:00<br>
+        Saturday - 8:30-7:00<br>
+        Sunday - CLOSED<br>
+        Hours subject to change.
+        Upstairs remains open for coffee, snacks, fellowship.
         `
     },
 };
