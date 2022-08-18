@@ -20,6 +20,14 @@ var menuSpecialItems =
         name : "Egg or Egg/Tuna Salad Sandwich",
         description : "$3.00"
     },
+    item4 : {
+        name : "Chicken Tenders and Fries",
+        description : "$6.50"
+    },
+    item5 : {
+        name : "Chicken Tender Sandwich",
+        description : "$5.00"
+    },
     item6 : {
         name : "Onion Rings",
         description : "$2.25"
