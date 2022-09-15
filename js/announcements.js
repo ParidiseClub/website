@@ -8,11 +8,11 @@ var announcementItems =
         name : "Kitchen is Open!!",
         description : 
         `
-        Hours:<br>
+        Kitchen Hours:<br>
         Monday - 3:00-7:00<br>
         Tuesday - CLOSED<br>
         Wednesday - 12:00-7:00<br>
-        Thursday - 12:00-7:00<br>
+        Thursday - 3:00-7:00<br>
         Friday - 3:00-7:00<br>
         Saturday - 8:30-7:00<br>
         Sunday - CLOSED<br>
