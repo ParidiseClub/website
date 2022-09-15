@@ -21,8 +21,8 @@ var hourItems =
             time : "2:30 PM"
         },
         item2 : {
-            name : "Wings of Freedom :",
-            time : "5:00 PM"
+            name : "<strike>Wings of Freedom :</strike>",
+            time : "<strike>5:00 PM </strike> (Permanently Cancelled)"
         },
         item3 : {
             name : "Sunday Night in Paridise :",
