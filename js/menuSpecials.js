@@ -40,6 +40,10 @@ var menuSpecialItems =
         name : "Cup of Coleslaw",
         description : "$1.50"
     },
+    item9 : {
+        name : "Nachos",
+        description : "6.50"
+    }
 };
 
 // Edit the portion below if you're comfortable with JavaScript
