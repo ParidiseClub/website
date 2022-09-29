@@ -50,57 +50,52 @@ var menuItems =
     },
     item9 : {
         name : "Coffee",
-        price : "$1.25 / 1.50",
+        price : "$1.50 / 1.75",
         description : "Small / Large"
     },
     item10 : {
         name : "Water",
-        price : "$1.25",
+        price : "$1.50",
         description : "In a bottle"
     },
     item11 : {
         name : "Soda",
-        price : "$1.50",
+        price : "$1.75",
         description : "Coke Products"
     },
     item12 : {
         name : "Tea",
-        price : "$1.50",
+        price : "$1.75",
         description : "Sweet or Unsweet"
     },
     item13 : {
         name : "Powerade",
-        price : "$1.50",
+        price : "$1.75",
         description : "Red, Orange, Blue"
     },
     item14 : {
-        name : "Minute Maid",
-        price : "$1.50",
-        description : "Pink Lemonade, Fruit Punch"
-    },
-    item15 : {
         name : "Monster Drinks",
-        price : "$2.50",
+        price : "$3.50",
         description : "Zoom"
     },
-    item16 : {
-        name : "Starbucks Coffees",
-        price : "$3.00",
+    item15 : {
+        name : "Dunkin Coffees",
+        price : "$3.50",
         description : "Cold Coffee"
     },
-    item17 : {
+    item16 : {
         name : "Pastry",
         price : "$1.00",
         description : "Muffins, Cookies"
     },
-    item18 : {
+    item17 : {
         name : "Chips",
         price : "$1.00",
         description : "Lay's, Doritos, Cheetos, Funyuns"
     },
-    item19 : {
+    item18 : {
         name : "Candy Bars",
-        price : "$1.00",
+        price : "$1.50",
         description : "Hershey, Reese's, Kit-Kat, Milky Way, Snickers, Twix"
     }
 };
