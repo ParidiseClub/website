@@ -42,7 +42,7 @@ var menuSpecialItems =
     },
     item9 : {
         name : "Nachos",
-        description : "6.50"
+        description : "$6.50"
     }
 };
 
