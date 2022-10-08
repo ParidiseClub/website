@@ -10,15 +10,15 @@ var menuSpecialItems =
     },
     item1 : {
         name : "Po Boy",
-        description : "$3.50"
+        description : "$4.25"
     },
     item2 : {
         name : "BLT",
-        description : "$4.50"
+        description : "$5.50"
     },
     item3 : {
         name : "Egg or Egg/Tuna Salad Sandwich",
-        description : "$3.00"
+        description : "$3.75"
     },
     item4 : {
         name : "Chicken Tenders and Fries",
@@ -30,7 +30,7 @@ var menuSpecialItems =
     },
     item6 : {
         name : "Onion Rings",
-        description : "$2.25"
+        description : "$2.75"
     },
     item7 : {
         name : "Mozzarella Stix (4)",
@@ -43,6 +43,10 @@ var menuSpecialItems =
     item9 : {
         name : "Nachos",
         description : "$6.50"
+    },
+    item10 : {
+        name : "Grilled Cheese",
+        description : "$3.75"
     }
 };
 
