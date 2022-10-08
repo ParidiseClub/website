@@ -25,12 +25,12 @@ var menuItems =
     },
     item4 : {
         name : "All Beef Hotdog",
-        price : "$2.75",
+        price : "$3.25",
         description : "All Beef!"
     },
     item5 : {
         name : "French Fries",
-        price : "$2.25",
+        price : "$2.75",
         description : "MmmmHmmmm!"
     },
     item6 : {
