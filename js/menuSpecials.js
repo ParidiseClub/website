@@ -6,7 +6,7 @@ var menuSpecialItems =
 {    
     item0 : {
         name : "Kitchen Specials",
-        description : "Ask if we have extras not listed. Kitchen closes at 7pm."
+        description : "Ask if we have extras not listed."
     },
     item1 : {
         name : "Po Boy",
