@@ -10,22 +10,22 @@ var menuItems =
     },
     item1 : {
         name : "pARIDise Burger",
-        price : "$6.00",
+        price : "$7.00",
         description : "Cheese, Grilled Onions, Bacon + BBQ Sauce"
     },
     item2 : {
         name : "1/4 lb Cheesebuger",
-        price : "$5.00",
+        price : "$6.00",
         description : "All Beef Patty, Lettuce, Tomato, Onion"
     },
     item3 : {
         name : "1/4 lb Hamburger",
-        price : "$4.50",
+        price : "$5.50",
         description : "All Beef Patty, Lettuce, Tomato, Onion"
     },
     item4 : {
         name : "All Beef Hotdog",
-        price : "$3.25",
+        price : "$4.25",
         description : "All Beef!"
     },
     item5 : {
@@ -35,17 +35,17 @@ var menuItems =
     },
     item6 : {
         name : "2 Eggs, Bacon + Toast",
-        price : "$5.50",
+        price : "$6.50",
         description : "Breakfast!"
     },
     item7 : {
         name : "2 Eggs, Sausage + Toast",
-        price : "$5.00",
+        price : "$6.00",
         description : "Breakfast!"
     },
     item8 : {
         name : "Bacon, Egg + Cheese Melt",
-        price : "$5.50",
+        price : "$6.50",
         description : "Breakfast Sandwich!"
     },
     item9 : {

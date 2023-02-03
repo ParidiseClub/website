@@ -9,24 +9,24 @@ var menuSpecialItems =
         description : "Ask if we have extras not listed."
     },
     item1 : {
-        name : "Po Boy",
-        description : "$4.25"
+        name : "1/2lb Burger",
+        description : "$6.00"
     },
     item2 : {
-        name : "BLT",
-        description : "$5.50"
+        name : "Buffalo Chicken Wrap",
+        description : "$6.25"
     },
     item3 : {
-        name : "Egg or Egg/Tuna Salad Sandwich",
-        description : "$3.75"
+        name : "Steak Wrap",
+        description : "$6.25"
     },
     item4 : {
         name : "Chicken Tenders and Fries",
-        description : "$6.50"
+        description : "$7.50"
     },
     item5 : {
         name : "Chicken Tender Sandwich",
-        description : "$5.00"
+        description : "$6.00"
     },
     item6 : {
         name : "Onion Rings",
@@ -34,19 +34,15 @@ var menuSpecialItems =
     },
     item7 : {
         name : "Mozzarella Stix (4)",
-        description : "$5.50"
+        description : "$6.00"
     },
     item8 : {
-        name : "Cup of Coleslaw",
-        description : "$1.50"
-    },
-    item9 : {
-        name : "Nachos",
+        name : "BLT",
         description : "$6.50"
     },
-    item10 : {
+    item9 : {
         name : "Grilled Cheese",
-        description : "$3.75"
+        description : "$4.75"
     }
 };
 
