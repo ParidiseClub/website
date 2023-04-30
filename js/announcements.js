@@ -15,7 +15,7 @@ var announcementItems =
         Wednesday - 12:00-8:00<br>
         Thursday - 12:00-8:00<br>
         Friday - 12:00-8:00<br>
-        Saturday - 8:30-8:30<br>
+        Saturday - 8:30-8:00<br>
         Hours subject to change.
         Upstairs remains open for coffee, snacks, fellowship.
         `

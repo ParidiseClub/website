@@ -6,44 +6,8 @@ var menuSpecialItems =
 {    
     item0 : {
         name : "Kitchen Specials",
-        description : "Ask if we have extras not listed."
+        description : "Come up or call in and ask!"
     },
-    item1 : {
-        name : "1/2lb Burger",
-        description : "$6.00"
-    },
-    item2 : {
-        name : "Buffalo Chicken Wrap",
-        description : "$6.25"
-    },
-    item3 : {
-        name : "Steak Wrap",
-        description : "$6.25"
-    },
-    item4 : {
-        name : "Chicken Tenders and Fries",
-        description : "$7.50"
-    },
-    item5 : {
-        name : "Chicken Tender Sandwich",
-        description : "$6.00"
-    },
-    item6 : {
-        name : "Onion Rings",
-        description : "$2.75"
-    },
-    item7 : {
-        name : "Mozzarella Stix (4)",
-        description : "$6.00"
-    },
-    item8 : {
-        name : "BLT",
-        description : "$6.50"
-    },
-    item9 : {
-        name : "Grilled Cheese",
-        description : "$4.75"
-    }
 };
 
 // Edit the portion below if you're comfortable with JavaScript

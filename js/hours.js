@@ -21,6 +21,10 @@ var hourItems =
             time : "2:30 PM"
         },
         item2 : {
+            name : "Welcome Home Open CA Meeting :",
+            time : "5:00 PM"
+        },
+        item3 : {
             name : "Sunday Night in Paridise :",
             time : "8:00 PM"
         },
@@ -28,8 +32,8 @@ var hourItems =
     monday : {
         heading : "Monday",
         item1 : {
-            name : "No Meetings",
-            time : ""
+            name : "AA By The Book :",
+            time : "8:30 AM"
         },     
     },
     tuesday : {
@@ -56,10 +60,6 @@ var hourItems =
         item4 : {
             name : "North of Akron :",
             time : "8:00 PM"
-        },     
-        item5 : {
-            name : "Wednesday Night Campfire (Temporarily Inactive) :",
-            time : "9:30 PM (Outdoors, Weather Pending)"
         },
     },
     thursday : {
@@ -87,20 +87,12 @@ var hourItems =
     saturday : {
         heading : "Saturday",
         item1 : {
-            name : "Ladies Big Book Study (Women) :",
-            time : "8:00 AM"
-        },
-        item2 : {
             name : "Saturday Morning Sunrise :",
             time : "10:00 AM"
         },
-        item3 : {
+        item2 : {
             name : "Stay While You're Here :",
             time : "7:00 PM"
-        },
-        item4 : {
-            name : "Saturday Campfire :",
-            time : "9:00 PM (Outdoors, Weather Pending)"
         },
     },
     bingo : {
