@@ -32,8 +32,8 @@ var hourItems =
     monday : {
         heading : "Monday",
         item1 : {
-            name : "AA By The Book :",
-            time : "8:30 AM"
+            name : "<s>AA By The Book :</s>",
+            time : "<s>8:30 AM</s> (Re-starting in Spring 2024)"
         },     
     },
     tuesday : {
@@ -69,10 +69,6 @@ var hourItems =
             time : "2:30 PM"
         },
         item2 : {
-            name : "Journey To Progress :",
-            time : "6:30 PM"
-        },
-        item3 : {
             name : "Keep it Simple Big Book :",
             time : "8:00 PM"
         },
@@ -80,8 +76,8 @@ var hourItems =
     friday : {
         heading : "Friday",
         item1 : {
-            name : "AA By The Book :",
-            time : "8:30 AM"
+            name : "<s>AA By The Book :</s>",
+            time : "<s>8:30 AM</s> (Re-starting in Spring 2024)"
         },
     },
     saturday : {

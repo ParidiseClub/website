@@ -36,4 +36,4 @@ function displayMenuSpecials(menuSpecialItems) {
     };
 }
 
-displayMenuSpecials(menuSpecialItems);
+//displayMenuSpecials(menuSpecialItems);

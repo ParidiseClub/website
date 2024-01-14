@@ -8,28 +8,25 @@ var aboutItems =
         name : "A place for unity, service, and recovery.",
         description : `
         <p>
-        Upstairs we have a cafe serving snacks, food, and drinks. Come play pool, darts, watch TV, read, hangout.
+        Check out our meeting <a href="index.html">schedule</a>.
         </p>
         <p>
-        Check out our <a href="index.html">schedule</a>.
-        </p>
-        <p>
-        Stop in or call to find out more.
+        Stop in or call us to find out more.
         </p>
         `
     },
-    item2 : {
-        name : "Welcome Upstairs!",
-        description : `
-        <img src="assets/pARIDISE-glass.jpg" alt="pARIDise Stained Glass" class="pc-img">
-        `
-    },
-    item3 : {
-        name : "Come play pool or darts!",
-        description : `
-        <img src="assets/pool-table.jpg" alt="Pool Table" class="pc-img">
-        `
-    },
+    // item2 : {
+    //     name : "Welcome Upstairs!",
+    //     description : `
+    //     <img src="assets/pARIDISE-glass.jpg" alt="pARIDise Stained Glass" class="pc-img">
+    //     `
+    // },
+    // item3 : {
+    //     name : "Come play pool or darts!",
+    //     description : `
+    //     <img src="assets/pool-table.jpg" alt="Pool Table" class="pc-img">
+    //     `
+    // },
     item4 : {
         name : "Stay for a meeting!",
         description : `

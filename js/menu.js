@@ -3,186 +3,6 @@
 
 var menuItems = 
 {
-    item0 : {
-        name : "Hot Food",
-        price : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - =",
-        description : "Pricing and availability could change."
-    },
-    item1 : {
-        name : "The pARIDise Burger",
-        price : "$7.00",
-        description : "Cheese, Grilled Onions, Bacon, BBQ"
-    },
-    item2 : {
-        name : "1/4 lb Cheesebuger",
-        price : "$6.50",
-        description : "All Beef Patty, Lettuce, Tomato, Onion"
-    },
-    item3 : {
-        name : "1/4 lb Hamburger",
-        price : "$6.00",
-        description : "All Beef Patty, Lettuce, Tomato, Onion"
-    },
-    item4 : {
-        name : "1/2 lb Handmade Burger",
-        price : "$8.50",
-        description : "Lettuce, Tomato, Onion"
-    },
-    item5 : {
-        name : "Fish + Hushpuppies",
-        price : "$8.00",
-        description : ""
-    },
-    item6 : {
-        name : "Shrimp + Hushpuppies",
-        price : "$8.00",
-        description : ""
-    },
-    item7 : {
-        name : "Philly Sandwich",
-        price : "$7.00",
-        description : ""
-    },
-    item8 : {
-        name : "All Beef Hotdog",
-        price : "$4.25",
-        description : "All Beef!"
-    },
-    item9 : {
-        name : "Chicken Tenders + Fries",
-        price : "$7.50",
-        description : ""
-    },
-    item10 : {
-        name : "Chicken Tender Sandwich",
-        price : "$6.00",
-        description : ""
-    },
-    item11 : {
-        name : "Grilled Cheese",
-        price : "$4.75",
-        description : "Cheeeeeese"
-    },
-    item12 : {
-        name : "BLT",
-        price : "$6.50",
-        description : "Bacon, Lettuce, Tomato"
-    },
-    item13 : {
-        name : "Chicken Wrap",
-        price : "$7.00",
-        description : "Chicken Tenders in a wrap."
-    },
-    item14 : {
-        name : "Steak Wrap",
-        price : "$7.00",
-        description : ""
-    },
-    item16 : {
-        name : "Cold Food",
-        price : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - =",
-        description : "Pricing and availability could change."
-    },
-    item17 : {
-        name : "Ham Sandwich / Wrap",
-        price : "$7.00",
-        description : ""
-    },
-    item18 : {
-        name : "Turkey Sandwich / Wrap",
-        price : "$7.00",
-        description : ""
-    },
-    item19 : {
-        name : "Garden Salad",
-        price : "$6.00",
-        description : "Lettuce, Tomato, Onion, Cucumber"
-    },
-    item20 : {
-        name : "Chicken Salad",
-        price : "$6.50",
-        description : ""
-    },
-    item21 : {
-        name : "Steak Salad",
-        price : "$6.50",
-        description : ""
-    },
-    item22 : {
-        name : "Sides",
-        price : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - =",
-        description : "Pricing and availability could change."
-    },
-    item23 : {
-        name : "French Fries",
-        price : "$2.75",
-        description : ""
-    },
-    item24 : {
-        name : "Onion Rings",
-        price : "$2.75",
-        description : ""
-    },
-    item25 : {
-        name : "Mozzarella Sticks",
-        price : "$6.00",
-        description : ""
-    },
-    item26 : {
-        name : "Breakfast (All Day)",
-        price : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - =",
-        description : "Pricing and availability could change."
-    },
-    item27 : {
-        name : "2 Eggs, Bacon + Toast",
-        price : "$6.50",
-        description : "Breakfast!"
-    },
-    item28 : {
-        name : "2 Eggs, Sausage + Toast",
-        price : "$6.00",
-        description : "Breakfast!"
-    },
-    item29 : {
-        name : "Bacon, Egg + Cheese Melt",
-        price : "$6.50",
-        description : "Breakfast Sandwich!"
-    },
-    item30 : {
-        name : "Bagel Steak Egg Melt",
-        price : "$7.00",
-        description : "Breakfast Bagel!"
-    },
-    item31 : {
-        name : "Bagel Bacon Egg Melt",
-        price : "$7.00",
-        description : "Breakfast Bagel!"
-    },
-    item32 : {
-        name : "French Toast / Meat, Eggs",
-        price : "$7.50",
-        description : ""
-    },
-    item33 : {
-        name : "Pancakes / Meat, Eggs",
-        price : "$7.50",
-        description : ""
-    },
-    item34 : {
-        name : "Toppings / Sauces",
-        price : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - =",
-        description : "Pricing and availability could change."
-    },
-    item35 : {
-        name : "Ketchup, Mustard, Mayo, Relish, Hot Sauce, BBQ, Ranch, Tartar, Honey Mustard, Italian, French, Thousand Island, Pickles",
-        price : "$0.50",
-        description : "Per Extra"
-    },
-    item36 : {
-        name : "Cheese",
-        price : "$0.50",
-        description : "Per Extra"
-    },
     item37 : {
         name : "Beverages",
         price : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - =",
@@ -199,7 +19,7 @@ var menuItems =
         description : "In a bottle"
     },
     item40 : {
-        name : "Soda",
+        name : "Pop",
         price : "$1.75",
         description : "Coke Products"
     },
@@ -214,7 +34,7 @@ var menuItems =
         description : ""
     },
     item43 : {
-        name : "Monster Drinks",
+        name : "Energy Drinks",
         price : "$3.50",
         description : "Zoom"
     },
@@ -229,9 +49,19 @@ var menuItems =
         description : "Pricing and availability could change."
     },
     item46 : {
-        name : "Pastry",
-        price : "$1.00",
+        name : "Coney Dog",
+        price : "$3.00 or 2 for $5.00",
         description : ""
+    },
+    item462 : {
+        name : "1/4LB Beef Hot Dog",
+        price : "$4.25",
+        description : ""
+    },
+    item463 : {
+        name : "All Beef Regular Hot Dog",
+        price : "$2.50 or 2 for $4.00",
+        description : "Hot Dog Toppings: Ketchup, Mustard, Relish, Onion, Coney Sauce - $0.50"
     },
     item47 : {
         name : "Chips",
@@ -242,7 +72,97 @@ var menuItems =
         name : "Candy Bars",
         price : "$1.50",
         description : ""
-    }
+    },
+    item49 : {
+        name : "Misc. Products",
+        price : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - =",
+        description : "Pricing and availability could change."
+    },
+    item500 : {
+        name : "Membership Dues",
+        price : "$5.00 / $50.00",
+        description : "Month / Year"
+    },
+    item50 : {
+        name : "Coins",
+        price : "$1.00, $3.00, $5.00, $15.00",
+        description : "Basic, Bronze, Veteran, Decorative"
+    },
+    item51 : {
+        name : "T-Shirts",
+        price : "$15.00",
+        description : "M/L/XL"
+    },
+    item52 : {
+        name : "Jewelry",
+        price : "$2.00, $10.00",
+        description : "Lapel Pins, Pendants"
+    },
+    item53 : {
+        name : "Accessories",
+        price : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - =",
+        description : ""
+    },
+    item54 : {
+        name : "Velour Coin Pouch",
+        price : "$2.00",
+        description : ""
+    },
+    item55 : {
+        name : "Infinity Coins",
+        price : "$3.00",
+        description : ""
+    },
+    item56 : {
+        name : "Decorative Stones",
+        price : "$3.00",
+        description : ""
+    },
+    item57 : {
+        name : "Keychains",
+        price : "$5.00",
+        description : ""
+    },
+    item58 : {
+        name : "License Plate Frames",
+        price : "$5.00",
+        description : ""
+    },
+    item59 : {
+        name : "Big Book Covers",
+        price : "$12.00",
+        description : ""
+    },
+    item60 : {
+        name : "Books",
+        price : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - =",
+        description : ""
+    },
+    item61 : {
+        name : "Living Sober",
+        price : "$3.75",
+        description : ""
+    },
+    item62 : {
+        name : "Came to Believe",
+        price : "$4.25",
+        description : ""
+    },
+    item63 : {
+        name : "Pocket Big Book",
+        price : "$6.00",
+        description : ""
+    },
+    item64 : {
+        name : "Twelve & Twelve",
+        price : "$9.25",
+        description : ""
+    },
+    item65 : {
+        name : "Big Book",
+        price : "$20.00",
+        description : ""
+    },
 };
 
 function displayItems(menuItems) {    

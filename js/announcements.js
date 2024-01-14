@@ -5,19 +5,10 @@
 var announcementItems = 
 {    
     item1 : {
-        name : "Kitchen is Open!!",
+        name : "Welcome!",
         description : 
-        `
-        Kitchen Hours:<br>
-        Sunday - 12:00-8:00<br>
-        Monday - 12:00-8:00<br>
-        Tuesday - 12:00-8:00<br>
-        Wednesday - 12:00-8:00<br>
-        Thursday - 12:00-8:00<br>
-        Friday - 12:00-8:00<br>
-        Saturday - 8:30-8:00<br>
-        Hours subject to change.
-        Upstairs remains open for coffee, snacks, fellowship.
+        `        
+        The pARIDise Club is open for coffee, snacks, and fellowship.
         `
     },
 };
