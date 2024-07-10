@@ -11,6 +11,13 @@ var announcementItems =
         The pARIDise Club is open for coffee, snacks, and fellowship.
         `
     },
+    item2 : {
+        name : "Upcoming: Membership Meeting 7/28/24, 12:00 PM",
+        description : 
+        `        
+        The next general membership meeting at The pARIDise Club will be held July 28th, 2024 at 12:00PM. New members are encouraged to attend. Membership is open to anyone for $5 per month or $50 per year. Please join us, we need YOUR help in supporting the club.
+        `
+    }
 };
 
 // Edit the portion below if you're comfortable with JavaScript
