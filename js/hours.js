@@ -90,18 +90,7 @@ var hourItems =
             name : "Stay While You're Here :",
             time : "7:00 PM"
         },
-    },
-    bingo : {
-        heading : "Bingo",
-        item1 : {
-            name : "Monday, Friday :",
-            time : "Doors: 4:30 PM, Bingo: 6:30-8:30 PM"
-        },
-        item2 : {
-            name : "Saturday :",
-            time : "Doors: 11:45 AM, Bingo: 1:30-3:30 PM"
-        },
-    },
+    }
 };
 
 // Edit the portion below if you're comfortable with JavaScript
