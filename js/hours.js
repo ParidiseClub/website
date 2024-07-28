@@ -21,7 +21,7 @@ var hourItems =
             time : "2:30 PM"
         },
         item2 : {
-            name : "Welcome Home Open CA Meeting :",
+            name : "Welcome Home (CA) :",
             time : "5:00 PM"
         },
         item3 : {
@@ -32,15 +32,23 @@ var hourItems =
     monday : {
         heading : "Monday",
         item1 : {
-            name : "<s>AA By The Book :</s>",
-            time : "<s>8:30 AM</s> (Re-starting in Spring 2024)"
+            name : "The Lunch Bunch (CA) :",
+            time : "12:00 PM (Upstairs)"
         },     
     },
     tuesday : {
         heading : "Tuesday",
         item1 : {
+            name : "Men's Toolbox Beginners (Men) :",
+            time : "5:45 PM"
+        },
+        item2 : {
             name : "Men's Toolbox (Men) :",
-            time : "6:00 PM"
+            time : "6:30 PM"
+        },
+        item3 : {
+            name : "Stairway to Serenty Big Book (CA) :",
+            time : "6:30 PM (Upstairs)"
         },     
     },
     wednesday : {
@@ -58,6 +66,10 @@ var hourItems =
             time : "5:30 PM"
         },
         item4 : {
+            name : "Say Yes To Life (CA) :",
+            time : "7:00 PM (Upstairs)"
+        },
+        item5 : {
             name : "North of Akron :",
             time : "8:00 PM"
         },
@@ -76,8 +88,8 @@ var hourItems =
     friday : {
         heading : "Friday",
         item1 : {
-            name : "<s>AA By The Book :</s>",
-            time : "<s>8:30 AM</s> (Re-starting in Spring 2024)"
+            name : "Open",
+            time : ""
         },
     },
     saturday : {
