@@ -33,7 +33,7 @@ var hourItems =
         heading : "Monday",
         item1 : {
             name : "The Lunch Bunch (CA) :",
-            time : "12:00 PM (Upstairs)"
+            time : "12:00 PM"
         },     
     },
     tuesday : {
