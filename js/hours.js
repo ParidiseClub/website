@@ -102,6 +102,10 @@ var hourItems =
             name : "Stay While You're Here :",
             time : "7:00 PM"
         },
+        item3 : {
+            name : "Campfire Meeting :",
+            time : "9:00 PM"
+        },
     }
 };
 

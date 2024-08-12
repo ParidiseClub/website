@@ -15,7 +15,7 @@ var announcementItems =
         name : "Special Events Committee",
         description : 
         `        
-        Thank you to those who joined us at the membership meeting 7/28/2024. We are looking for committee members to help host special events at The pARIDise Club. Please ask a staff member or board member about getting involved. 
+        We are looking for committee members to help host special events at The pARIDise Club. Please ask a staff member or board member about getting involved. 
         `
     }
 };
