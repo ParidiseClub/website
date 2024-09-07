@@ -6,16 +6,20 @@ var hourItems =
     hours : {
         heading : "Club Hours",
         item1 : {
-            name : "Sunday - Friday :",
+            name : "7 days/week :",
             time : "Noon - 9:00 PM"
         },
         item2 : {
-            name : "Saturday :",
-            time : "8:30 AM - 8:30 PM"
+            name : "*Subject to change",
+            time : ""
         }
     },
     sunday : {
         heading : "Sunday",
+        item4 : {
+            name : "Available for New Meeting :",
+            time : "12:00 PM - 1:00 PM"
+        },
         item1 : {
             name : "Sunday Serenity Discussion :",
             time : "2:30 PM"
@@ -34,10 +38,18 @@ var hourItems =
         item1 : {
             name : "The Lunch Bunch (CA) :",
             time : "12:00 PM"
-        },     
+        },
+        item2 : {
+            name : "Available for New Meeting(s) :",
+            time : "2:00 PM thru 8:00 PM"
+        },
     },
     tuesday : {
         heading : "Tuesday",
+        item4 : {
+            name : "Available for New Meeting(s) :",
+            time : "12:00 PM thru 4:00 PM"
+        },
         item1 : {
             name : "Men's Toolbox Beginners (Men) :",
             time : "5:45 PM"
@@ -80,6 +92,14 @@ var hourItems =
             name : "Mid Day Serenity :",
             time : "2:30 PM"
         },
+        item3 : {
+            name : "Available for New Meeting :",
+            time : "12:00 - 1:00 PM OR 12:30 - 1:30 PM"
+        },
+        item4 : {
+            name : "Available for New Meeting :",
+            time : "5:00 - 6:00 PM OR 5:30 - 6:30 PM"
+        },
         item2 : {
             name : "Keep it Simple Big Book :",
             time : "8:00 PM"
@@ -87,16 +107,20 @@ var hourItems =
     },
     friday : {
         heading : "Friday",
+        item2 : {
+            name : "Available for New Meeting(s) :",
+            time : "12:00 PM thru 6:00 PM"
+        },
         item1 : {
-            name : "Open",
-            time : ""
+            name : "Drug Addicts Anonymous :",
+            time : "7:00 PM"
         },
     },
     saturday : {
         heading : "Saturday",
         item1 : {
-            name : "Saturday Morning Sunrise :",
-            time : "10:00 AM"
+            name : "Available for New Meeting(s) :",
+            time : "10:00 AM thru 5:00 PM"
         },
         item2 : {
             name : "Stay While You're Here :",

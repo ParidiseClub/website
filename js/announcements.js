@@ -12,10 +12,10 @@ var announcementItems =
         `
     },
     item2 : {
-        name : "Special Events Committee",
+        name : "Update",
         description : 
         `        
-        We are looking for committee members to help host special events at The pARIDise Club. Please ask a staff member or board member about getting involved. 
+        We have a pending offer for sale of the building which will allow us to remain in the building unchanged for up to 3 years. We will be looking for suitable locations to move to in the future. This ensures The pARIDise Club remains an ongoing presence in our community.
         `
     }
 };
