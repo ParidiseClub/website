@@ -3,7 +3,14 @@
 // Whatever is INSIDE the quotes, and not one of the things above, will appear on top of the main page as plain text.
 
 var announcementItems = 
-{    
+{   
+    item0 : {
+        name : "Election - Sunday, December 8th 2024 2PM",
+        description : 
+        `        
+        A membership meeting will be held at the club Sunday December 8th at 2PM. We will be electing a new trustee to the board.
+        `
+    }, 
     item1 : {
         name : "Welcome!",
         description : 
