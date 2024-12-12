@@ -5,10 +5,17 @@
 var announcementItems = 
 {   
     item0 : {
-        name : "Election - Sunday, December 8th 2024 2PM",
+        name : "Children's Christmas Party - Dec 21, 2024 - 2:00PM",
         description : 
         `        
-        A membership meeting will be held at the club Sunday December 8th at 2PM. We will be electing a new trustee to the board.
+        Call club or sign up at counter child name, age, boy or girl, and appropriate gifts.
+        `
+    },
+    item00 : {
+        name : "Christmas Dinner - Dec 25, 2024",
+        description : 
+        `        
+        Christmas Day The pARIDise Club will have a Christmas Dinner. Join us all day, 12pm-9pm, for fellowship. Call in for details.
         `
     }, 
     item1 : {
