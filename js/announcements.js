@@ -4,20 +4,6 @@
 
 var announcementItems = 
 {   
-    item0 : {
-        name : "Children's Christmas Party - Dec 21, 2024 - 2:00PM",
-        description : 
-        `        
-        Call club or sign up at counter child name, age, boy or girl, and appropriate gifts.
-        `
-    },
-    item00 : {
-        name : "Christmas Dinner - Dec 25, 2024",
-        description : 
-        `        
-        Christmas Day The pARIDise Club will have a Christmas Dinner. Join us all day, 12pm-9pm, for fellowship. Call in for details.
-        `
-    }, 
     item1 : {
         name : "Welcome!",
         description : 
@@ -26,6 +12,13 @@ var announcementItems =
         `
     },
     item2 : {
+        name : "Dinner Every Tuesday",
+        description : 
+        `        
+        Join us for dinner every Tuesday.
+        `
+    },
+    item3 : {
         name : "Update",
         description : 
         `        
