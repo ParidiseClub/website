@@ -8,7 +8,17 @@ var announcementItems =
         name : "Welcome!",
         description : 
         `        
-        The pARIDise Club is open for coffee, snacks, and fellowship.
+        The pARIDise Club is open for coffee, snacks, and fellowship. 
+        We have food every day, stop in and check out our improved menu options!
+        `
+    },
+    item2 : {
+        name : "Arts In Recovery",
+        description : 
+        `        
+        The first Friday of every month, we are hosting an 
+        open mic night and/or other arts related activities. 
+        Come join us for music, art, fun, and fellowship!
         `
     }
 };
