@@ -5,7 +5,7 @@ var menuItems =
 {
     item37 : {
         name : "Beverages",
-        price : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - =",
+        price : "- - -",
         description : "Pricing and availability could change."
     },
     item38 : {
@@ -50,7 +50,7 @@ var menuItems =
     },
     item46 : {
         name : "Snacks",
-        price : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - =",
+        price : "- - -",
         description : "Pricing and availability could change."
     },
     item461 : {
@@ -80,7 +80,7 @@ var menuItems =
     },
     item49 : {
         name : "Misc. Products",
-        price : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - =",
+        price : "- - -",
         description : "Pricing and availability could change."
     },
     item500 : {
@@ -105,7 +105,7 @@ var menuItems =
     },
     item53 : {
         name : "Accessories",
-        price : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - =",
+        price : "- - -",
         description : ""
     },
     item54 : {
@@ -140,7 +140,7 @@ var menuItems =
     },
     item60 : {
         name : "Books",
-        price : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - =",
+        price : "- - -",
         description : ""
     },
     item61 : {

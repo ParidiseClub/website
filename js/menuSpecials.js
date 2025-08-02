@@ -6,7 +6,7 @@ var menuSpecialItems =
 {   
     item0 : {
         name : "Daily Specials",
-        description : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - ="
+        description : "- - -",
     }, 
     item1 : {
         name : "Mama's Homemade Coney Sauce",
