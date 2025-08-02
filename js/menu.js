@@ -10,66 +10,71 @@ var menuItems =
     },
     item38 : {
         name : "Coffee",
-        price : "$1.50 / 1.75",
-        description : "Small / Large"
+        price : "$1.50",
+        description : "One size"
     },
     item39 : {
-        name : "Water",
+        name : "Bottled Water",
         price : "$1.50",
-        description : "In a bottle"
+        description : ""
     },
     item40 : {
-        name : "Pop",
+        name : "Soda Pop",
         price : "$1.75",
-        description : "Coke Products"
+        description : ""
     },
     item41 : {
-        name : "Tea",
-        price : "$1.75",
-        description : "Sweet or Unsweet"
+        name : "Lemonade",
+        price : "$2.00",
+        description : ""
     },
     item42 : {
-        name : "Powerade",
-        price : "$1.75",
+        name : "Propel/Bai Flavored Water",
+        price : "$3.50",
         description : ""
     },
     item43 : {
-        name : "Energy Drinks",
+        name : "Celsius/Red Bull Energy",
         price : "$3.50",
-        description : "Zoom"
+        description : ""
     },
     item44 : {
-        name : "Orange Juice",
-        price : "$1.75",
+        name : "Unsweet/Sweet Tea",
+        price : "$3.50",
         description : ""
     },
     item45 : {
+        name : "Gatorade/Gatorade Zero",
+        price : "$3.50",
+        description : ""
+    },
+    item46 : {
         name : "Snacks",
         price : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - =",
         description : "Pricing and availability could change."
     },
-    item46 : {
-        name : "Coney Dog",
-        price : "$3.00 or 2 for $5.00",
+    item461 : {
+        name : "Chips",
+        price : "$1.50",
         description : ""
     },
     item462 : {
-        name : "1/4LB Beef Hot Dog",
-        price : "$4.25",
+        name : "Candy bar",
+        price : "$2.00",
         description : ""
     },
     item463 : {
-        name : "All Beef Regular Hot Dog",
-        price : "$2.50 or 2 for $4.00",
-        description : "Hot Dog Toppings: Ketchup, Mustard, Relish, Onion, Coney Sauce - $0.50"
-    },
-    item47 : {
-        name : "Chips",
-        price : "$1.00",
+        name : "Slim Jim",
+        price : "$2.00",
         description : ""
     },
-    item48 : {
-        name : "Candy Bars",
+    item464 : {
+        name : "Nutty Buddy",
+        price : "$1.50",
+        description : ""
+    },
+    item465 : {
+        name : "Rice Krispie Treat",
         price : "$1.50",
         description : ""
     },

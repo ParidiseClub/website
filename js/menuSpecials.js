@@ -3,10 +3,34 @@
 // Whatever is INSIDE the quotes, and not one of the things above, will appear on top of the menu page as plain text.
 
 var menuSpecialItems = 
-{    
+{   
     item0 : {
-        name : "Kitchen Specials",
-        description : "Come up or call in and ask!"
+        name : "Daily Specials",
+        description : "= - = - = - = - = - = - = - = - = - = - = - = - = - = - ="
+    }, 
+    item1 : {
+        name : "Mama's Homemade Coney Sauce",
+        description : "8oz Jar $5.00"
+    },
+    item2 : {
+        name : "All Beef Hotdog",
+        description : "$2.50 or 2/$4.00"
+    },
+    item3 : {
+        name : "All Beef Coney Dog",
+        description : "$3.00 or 2/$5.00"
+    },
+    item4 : {
+        name : "Grilled Chicken Sandwich",
+        description : "$5.00"
+    },
+    item5 : {
+        name : "Grilled Ham and Cheese",
+        description : "$5.00"
+    },
+    item6 : {
+        name : "Grilled Cheese",
+        description : "$3.00"
     },
 };
 
@@ -36,4 +60,4 @@ function displayMenuSpecials(menuSpecialItems) {
     };
 }
 
-//displayMenuSpecials(menuSpecialItems);
+displayMenuSpecials(menuSpecialItems);

@@ -16,19 +16,19 @@ var hourItems =
     },
     sunday : {
         heading : "Sunday",
-        item4 : {
+        item1 : {
             name : "Available for New Meeting :",
             time : "12:00 PM - 1:00 PM"
         },
-        item1 : {
+        item2 : {
             name : "Sunday Serenity Discussion :",
             time : "2:30 PM"
         },
-        item2 : {
+        item3 : {
             name : "Welcome Home (CA) :",
             time : "5:00 PM"
         },
-        item3 : {
+        item4 : {
             name : "Sunday Night in Paridise :",
             time : "8:00 PM"
         },
@@ -40,28 +40,28 @@ var hourItems =
             time : "12:00 PM"
         },
         item2 : {
+            name : "Gambler's Anonymous :",
+            time : "7:00 PM"
+        },
+        item3 : {
             name : "Available for New Meeting(s) :",
-            time : "2:00 PM thru 8:00 PM"
+            time : "2:00 PM thru 5:00 PM"
         },
     },
     tuesday : {
         heading : "Tuesday",
-        item4 : {
+        item1 : {
             name : "Available for New Meeting(s) :",
             time : "12:00 PM thru 4:00 PM"
         },
-        item1 : {
+        item2 : {
             name : "Men's Toolbox Beginners (Men) :",
             time : "5:45 PM"
         },
-        item2 : {
+        item3 : {
             name : "Men's Toolbox (Men) :",
             time : "6:30 PM"
-        },
-        item3 : {
-            name : "Stairway to Serenty Big Book (CA) :",
-            time : "6:30 PM (Upstairs)"
-        },     
+        }   
     },
     wednesday : {
         heading : "Wednesday",
@@ -78,12 +78,8 @@ var hourItems =
             time : "5:30 PM"
         },
         item4 : {
-            name : "Say Yes To Life (CA) :",
-            time : "7:00 PM (Upstairs)"
-        },
-        item5 : {
             name : "North of Akron :",
-            time : "8:00 PM"
+            time : "7:30 PM"
         },
     },
     thursday : {
@@ -92,29 +88,21 @@ var hourItems =
             name : "Mid Day Serenity :",
             time : "2:30 PM"
         },
-        item3 : {
-            name : "Available for New Meeting :",
-            time : "12:00 - 1:00 PM OR 12:30 - 1:30 PM"
-        },
-        item4 : {
-            name : "Available for New Meeting :",
-            time : "5:00 - 6:00 PM OR 5:30 - 6:30 PM"
-        },
         item2 : {
+            name : "Journey to Progress :",
+            time : "6:30 PM"
+        },
+        item3 : {
             name : "Keep it Simple Big Book :",
             time : "8:00 PM"
         },
     },
     friday : {
         heading : "Friday",
-        item2 : {
+        item1 : {
             name : "Available for New Meeting(s) :",
             time : "12:00 PM thru 6:00 PM"
-        },
-        item1 : {
-            name : "Drug Addicts Anonymous :",
-            time : "7:00 PM"
-        },
+        }
     },
     saturday : {
         heading : "Saturday",
@@ -127,7 +115,7 @@ var hourItems =
             time : "7:00 PM"
         },
         item3 : {
-            name : "Campfire Meeting :",
+            name : "Campfire/Candlelight Meeting :",
             time : "9:00 PM"
         },
     }
