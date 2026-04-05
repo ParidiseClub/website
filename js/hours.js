@@ -21,32 +21,28 @@ var hourItems =
             time : "12:00 PM - 1:00 PM"
         },
         item2 : {
-            name : "Sunday Serenity Discussion :",
+            name : "Serenity Discussion AA (D)(O) :",
             time : "2:30 PM"
         },
         item3 : {
-            name : "Welcome Home (CA) :",
+            name : "Welcome Home CA (D)(O) :",
             time : "5:00 PM"
         },
         item4 : {
-            name : "Sunday Night in Paridise :",
+            name : "Sunday In Paridise AA (L)(O) :",
             time : "8:00 PM"
         },
     },
     monday : {
         heading : "Monday",
         item1 : {
-            name : "The Lunch Bunch (CA) :",
+            name : "The Lunch Bunch CA (D)(O) :",
             time : "12:00 PM"
         },
         item2 : {
-            name : "Gambler's Anonymous :",
-            time : "7:00 PM"
-        },
-        item3 : {
             name : "Available for New Meeting(s) :",
             time : "2:00 PM thru 5:00 PM"
-        },
+        }
     },
     tuesday : {
         heading : "Tuesday",
@@ -55,45 +51,45 @@ var hourItems =
             time : "12:00 PM thru 4:00 PM"
         },
         item2 : {
-            name : "Men's Toolbox Beginners (Men) :",
-            time : "5:45 PM"
+            name : "Tuesday Womens Big Book Discussion AA (O)(BBS) :",
+            time : ""
         },
         item3 : {
-            name : "Men's Toolbox (Men) :",
-            time : "6:30 PM"
-        }   
+            name : "Men's Toolbox AA (D)(O) :",
+            time : "6:00 PM"
+        }
     },
     wednesday : {
         heading : "Wednesday",
         item1 : {
-            name : "AA By The Book :",
+            name : "By The Book AA (D)(O) :",
             time : "8:30 AM"
         },
         item2 : {
-            name : "Road of Destiny :",
+            name : "Road of Destiny AA (D)(O) :",
             time : "1:00 PM"
         },
         item3 : {
-            name : "Don't Be Discouraged :",
+            name : "Don't Be Discouraged AA (D)(O) :",
             time : "5:30 PM"
         },
         item4 : {
-            name : "North of Akron :",
+            name : "North of Akron AA (L)(O) :",
             time : "7:30 PM"
         },
     },
     thursday : {
         heading : "Thursday",
         item1 : {
-            name : "Mid Day Serenity :",
+            name : "Mid Day Serenity AA (D)(O) :",
             time : "2:30 PM"
         },
         item2 : {
-            name : "Journey to Progress :",
+            name : "Journey to Progress AA (L)(O):",
             time : "6:30 PM"
         },
         item3 : {
-            name : "Keep it Simple Big Book :",
+            name : "Keep it Simple Big Book AA (BBS)(O) :",
             time : "8:00 PM"
         },
     },
@@ -101,7 +97,11 @@ var hourItems =
         heading : "Friday",
         item1 : {
             name : "Available for New Meeting(s) :",
-            time : "12:00 PM thru 6:00 PM"
+            time : "2:00 PM thru 6:00 PM"
+        },
+        item2 : {
+            name : "Another Day In Paradise AA (D)(O) :",
+            time : "1:00 PM"
         }
     },
     saturday : {
@@ -111,11 +111,11 @@ var hourItems =
             time : "10:00 AM thru 5:00 PM"
         },
         item2 : {
-            name : "Stay While You're Here :",
+            name : "Stay While You're Here AA (D)(O) :",
             time : "7:00 PM"
         },
         item3 : {
-            name : "Campfire/Candlelight Meeting :",
+            name : "Campfire/Candlelight Meeting AA (D)(O) :",
             time : "9:00 PM"
         },
     }
