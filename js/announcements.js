@@ -13,12 +13,14 @@ var announcementItems =
         `
     },
     item2 : {
-        name : "Arts In Recovery",
+        name : "Friday Night Events",
         description : 
-        `        
-        The first Friday of every month, we are hosting an 
-        open mic night and/or other arts related activities. 
-        Come join us for music, art, fun, and fellowship!
+        `
+        Every week, monthly, we host a different event on Friday.<br/>
+        1st Friday - Arts in Recovery. Open Mic Music and Art Night.<br/>
+        2nd Friday - Pool Tournament<br/>
+        3rd Friday - Game Night<br/>
+        4th Friday - Pool Tournament<br/>
         `
     }
 };

@@ -48,11 +48,11 @@ var hourItems =
         heading : "Tuesday",
         item1 : {
             name : "Available for New Meeting(s) :",
-            time : "12:00 PM thru 4:00 PM"
+            time : "2:00 PM thru 4:00 PM"
         },
         item2 : {
             name : "Tuesday Womens Big Book Discussion AA (O)(BBS) :",
-            time : ""
+            time : "12:00 PM"
         },
         item3 : {
             name : "Men's Toolbox AA (D)(O) :",
